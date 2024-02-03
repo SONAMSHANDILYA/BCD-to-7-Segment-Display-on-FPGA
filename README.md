@@ -1,1 +1,1 @@
-# BCD-to-7-Segment-Display-on-FPGA
+# BCD to 7-segment display converter
